@@ -34,12 +34,11 @@ export default function Footer() {
                         
                         </div>
                         <div className="col-span-1">
-                        <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
                                 <Link href="https://alvin-bot-devlopment.vercel.app/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Web Site
-                                
                                     </a>
                                 </Link>
                             </div>
@@ -61,6 +60,15 @@ export default function Footer() {
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
+                                </Link>
+                            </div>
+                            <div>
+                                <Link href="https://github.com/umutxyp/MusicBot">
+                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    <i className={`fa-brands fa-github`} /> GitHub 
+                                    </a>
+                                </Link>
+                            </div>
                             <div>
                                 <Link href="https://youtube.com/UmutBayraktarYT">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
