@@ -13,7 +13,7 @@ export default function Index() {
           AlvinBOT
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-        Birçok özellik barındıran ve her geçen gün daha da yükselen AlvinBOT ile sunucunuzu renklendirin.. 
+        BBBBBBirçok özellik barındıran ve her geçen gün daha da yükselen AlvinBOT ile sunucunuzu renklendirin.. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
