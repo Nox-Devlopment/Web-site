@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      Code Share, it offers an ideal platform for developers to share their projects, interact with other developers and sell their projects for money, exploring many projects in different categories and software languages.
+                                      
                                     </p>
                                 </div>     
                             </div>
