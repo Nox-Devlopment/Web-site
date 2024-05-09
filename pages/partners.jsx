@@ -40,7 +40,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Nodesty VDS</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                   DISCOUNT CODE: CODESHARE Experience uninterrupted internet speed up to 10Gb and cheap intel i9, amd ryzen series vds with Nodesty. Shop with Code Share assurance.
+                                   
                                     </p>
                                 </div>     
                             </div>
