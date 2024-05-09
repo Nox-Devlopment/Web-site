@@ -7,7 +7,6 @@ export default function Privacy() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ To use the AlivnBOT bot, you must define the necessary permissions when adding it to your discord server. <a className="text-white"></a></p>
         <div className="py-3"></div>
-
         <div className="py-3"></div>
         <p>⊳ Every user can use the AlivnBOT bot however they want, as long as they do not intend to harm.</p>
         <div className="py-3"></div>
