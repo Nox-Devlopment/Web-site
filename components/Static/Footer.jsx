@@ -34,8 +34,7 @@ export default function Footer() {
                         
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
-                            <div>
+
                                 
                                     </a>
                                 </Link>
