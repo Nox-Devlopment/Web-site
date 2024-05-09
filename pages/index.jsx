@@ -47,7 +47,7 @@ AlvinBOT Destek Sunucusu</a>
           <div className="col-span-4">
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"AlvinBOT" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
-            <a href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=bot%20applications.commands" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
+            <a href="https://discord.com/oauth2/authorize?client_id=1237129865954590850" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fab fa-discord mr-2" />Invite AlvinBOT
             </a>
           </div>
@@ -57,19 +57,19 @@ AlvinBOT Destek Sunucusu</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
-                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, AlvinBOT gives you a musical pleasure to the fullest.</p>
+                  <p className="text-gray-500 line-clamp-4">Sunucunuza özel hızlı ve kişiselleştirilebilen ayarlarla AlvinBOT.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">A bot that supports multi-platform music playback. (Spotify, Souncloud, YouTube) | (It is a bot that complies with all copyrights and licenses.)</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Log</p>
+                  <p className="text-gray-500 line-clamp-4">Link engelleme, reklam engelleme ve daha nice özellikleri ile moderatörlerin işini sizin için yapsın.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
-                  <p className="text-gray-500 line-clamp-4">An open source safe bot that you can browse and help us develop.</p>
+                  <p className="text-gray-500 line-clamp-4">Link engelleme, reklam engelleme ve daha nice özellikleri ile moderatörlerin işini sizin için yapsın.</p>
                 </div>
               </div>
               <div>
