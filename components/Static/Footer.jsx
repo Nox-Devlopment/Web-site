@@ -35,10 +35,7 @@ export default function Footer() {
                         </div>
                         <div className="col-span-1">
                         <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
-                            <div>
-                                <Link href="https://top.gg/bot/774043716797071371/vote">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+
                                 
                                     </a>
                                 </Link>
